@@ -1,0 +1,15 @@
+[conf]
+order1=128.119.243.164
+order_port1=35301
+order2=128.119.243.164
+order_port2=50003
+catalog1=128.119.243.175
+catalog_port1=50001
+catalog2=128.119.243.175
+catalog_port2=50002
+frontend=128.119.243.168
+frontend_port=35303
+heartbeat_order1=35310
+heartbeat_order2=35300
+heartbeat_catalog1=35306
+heartbeat_catalog2=35307

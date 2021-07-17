@@ -1,0 +1,7 @@
+[conf]
+order=128.119.243.164
+order_port=35301
+catalog=128.119.243.164
+catalog_port=35307
+frontend=128.119.243.164
+frontend_port=35303
